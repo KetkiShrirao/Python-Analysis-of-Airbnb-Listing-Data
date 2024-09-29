@@ -6,7 +6,7 @@ It describes a key issue surrounding the short-term rental platform.
 
 Objectives:
 
-Expore and profile the data to correct any quality issues
+Explore and profile the data to correct any quality issues
 Prepare and reformat the data for visulaization
 Visualize the data and identity key insights and recommendations
 
